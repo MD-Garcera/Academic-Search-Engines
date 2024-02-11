@@ -3,7 +3,7 @@
 ## Local Sources
 | **Wesbite** | **Description** | **Link** |
 |--------------------|-----------------|---------------------|
-| Asian Center - UP | Graduate school and research institution of the University of the Philippines Diliman offering programs and courses on Asian studies. | https://www.ac.upd.edu.ph/.../free-publications-a-list |
+| Asian Center - UP | Graduate school and research institution of the University of the Philippines Diliman offering programs and courses on Asian studies. | https://ac.upd.edu.ph/ |
 | Asian Regional Integration Center | Knowledge and information portal of the Asian Development Bank providing data and publications on regional cooperation and integration in Asia and the Pacific. | https://aric.adb.org/philippines/studiesresearch |
 | Bahandi | Digital repository of the Central Philippine University preserving and providing access to intellectual and cultural heritage. | https://repository.cpu.edu.ph/ |
 | Bisig PUP | Online journal system of the Polytechnic University of the Philippines hosting various journals published by the university. | https://www.apcore-inc.org/pup-online-journal-system |
