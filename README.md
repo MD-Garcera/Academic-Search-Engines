@@ -5,7 +5,7 @@
 |--------------------|-----------------|---------------------|
 | Asian Center - UP | Graduate school and research institution of the University of the Philippines Diliman offering programs and courses on Asian studies. | https://ac.upd.edu.ph/ |
 | Asian Regional Integration Center | Knowledge and information portal of the Asian Development Bank providing data and publications on regional cooperation and integration in Asia and the Pacific. | https://aric.adb.org/philippines/studiesresearch |
-| Bahandi | Digital repository of the Central Philippine University preserving and providing access to intellectual and cultural heritage. | https://repository.cpu.edu.ph/ |
+| Bahandian | Digital repository of the Central Philippine University preserving and providing access to intellectual and cultural heritage. | https://repository.cpu.edu.ph/ |
 | Bisig PUP | Online journal system of the Polytechnic University of the Philippines hosting various journals published by the university. | https://www.apcore-inc.org/pup-online-journal-system |
 | Dalumat E-Journal | Online journal of the College of Liberal Arts and Communication of De La Salle University - Dasmariñas publishing articles, reviews, and creative works. | http://ejournals.ph/index.php?journal=DALUMAT&page=index |
 | Daluyan Journal | Bilingual journal of the Department of Filipino and Philippine Literature of the University of the Philippines Diliman focusing on literary and cultural studies. | https://journals.upd.edu.ph/index.php/djwf |
