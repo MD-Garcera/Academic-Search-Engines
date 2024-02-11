@@ -21,7 +21,7 @@
 | Katipunan | Student-run journal of the Loyola Schools of the Ateneo de Manila University showcasing research and academic achievements of students. | https://ajol.ateneo.edu/katipunan |
 | Kritika Kultura | Peer-reviewed journal of the Department of English of the Ateneo de Manila University focusing on literary and cultural studies. | https://ajol.ateneo.edu/kk/archives |
 | Kritike | Peer-reviewed journal of the Department of Philosophy of the University of Santo Tomas covering various fields and traditions of philosophy. | http://www.kritike.org/ |
-| Malay Research Journal | Peer-reviewed journal of the College of Liberal Arts of De La Salle University covering humanities, social sciences, arts, and culture. | https://xsite.dlsu.edu.ph/.../journals/malay/default.asp |
+| Malay Research Journal | Peer-reviewed journal of the College of Liberal Arts of De La Salle University covering humanities, social sciences, arts, and culture. | https://www.dlsu.edu.ph/research/publishing-house/journals/ |
 | National Library of the Philippines | Official repository of the printed and recorded cultural heritage of the Philippines offering various services. | http://web.nlp.gov.ph/nlp/?q=taxonomy/term/16 |
 | Philippine E-Journals | Online collection of academic journals published in the Philippines covering various topics. | https://ejournals.ph/ |
 | Philippine Education Research Journal | Online journal of the Philippine Educational Research Association publishing studies on education and learning. | https://peac.org.ph/2020-1-02/ |
